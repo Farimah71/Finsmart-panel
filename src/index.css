@@ -1,0 +1,160 @@
+/* ++++++++++ Tailwindcss ++++++++++ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ++++++++++ Font (Roboto) ++++++++++ */
+@font-face {
+  font-family: "inter";
+  src: url("./assets/font/Inter.ttf") format("truetype");
+}
+*,
+html,
+button {
+  font-family: "inter" !important;
+}
+body {
+  background-color: #f2f2f2;
+}
+/* .rdt_Table {
+  background-color: transparent !important;
+} */
+
+/* ++++++++++ Progressbar Customize ++++++++++ */
+progress[value] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+progress[value] {
+  --color: rgb(59, 136, 209); /* the progress color */
+  --background: lightgrey; /* the background color */
+
+  width: 200px;
+  height: 8px;
+  margin: 0 10px;
+}
+progress[value]::-webkit-progress-bar {
+  border-radius: 10em;
+  background: var(--background);
+}
+progress[value]::-webkit-progress-value {
+  border-radius: 10em;
+  background: var(--color);
+}
+
+/* ++++++++++ Scrollbar Customize ++++++++++ */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background-color: #bbbfca;
+}
+.no-scroll {
+  scrollbar-width: 0;
+}
+.no-scroll::-webkit-scrollbar {
+  width: 0;
+}
+.scroll-element {
+  scrollbar-width: thin !important;
+  scrollbar-color: #bbbfca transparent !important;
+}
+.scroll-element::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+  background-color: transparent;
+}
+.scroll-element::-webkit-scrollbar-thumb {
+  border-radius: 9999px !important;
+  background-color: #bbbfca;
+}
+
+/* ++++++++++ Number Input Customize ++++++++++ */
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+/* ++++++++++ Animation for Popup ++++++++++ */
+@keyframes anvil {
+  0% {
+    transform: translateY(-70px);
+    opacity: 0.3;
+    box-shadow: 0 0 0 rgba(241, 241, 241, 0);
+  }
+  100% {
+    transform: translateY(0px);
+    opacity: 1;
+    box-shadow: 0 0 500px rgba(241, 241, 241, 0);
+  }
+}
+.popup-content {
+  -webkit-animation: anvil 0.4s ease forwards;
+}
+
+/* ++++++++++ Calendar-react Custom Style ++++++++++ */
+.fc-media-screen {
+  background-color: #fff !important;
+  padding: 20px !important;
+  border-radius: 10px;
+}
+
+/* ++++++++++ rc-pagination Custom Style ++++++++++ */
+.rc-pagination-item {
+  border: none !important;
+}
+.rc-pagination-item-active {
+  background-color: #99a1b7 !important;
+}
+.rc-pagination-item-active a {
+  color: #fff !important;
+}
+.rc-pagination-next button,
+.rc-pagination-prev button {
+  border: 1px solid #99a1b7 !important;
+  font-size: 25px !important;
+  line-height: 21px !important;
+}
+
+@layer components {
+  /* .my-react-select-container {
+  } */
+  .my-react-select-container .my-react-select__control {
+    @apply bg-white dark:bg-dark_custom-average-black dark:disabled:bg-transparent border border-neutral-300 dark:border-neutral-700 hover:border-neutral-400 dark:hover:border-neutral-500;
+  }
+
+  .my-react-select-container .my-react-select__control--is-focused {
+    @apply border-neutral-500 hover:border-neutral-500 dark:border-neutral-400 dark:hover:border-neutral-400 shadow-none;
+  }
+
+  .my-react-select-container .my-react-select__menu {
+    @apply bg-neutral-100 dark:bg-neutral-700 border-2 border-neutral-300 dark:border-neutral-600;
+  }
+
+  .my-react-select-container .my-react-select__option {
+    @apply text-neutral-600 dark:text-dark_custom-full-white bg-neutral-100 hover:bg-neutral-200 dark:bg-dark_custom-average-black dark:hover:bg-neutral-800;
+  }
+  /* .my-react-select-container .my-react-select__option--is-focused {
+    @apply bg-neutral-200 dark:bg-neutral-800;
+  } */
+
+  .my-react-select-container .my-react-select__indicator-separator {
+    @apply bg-neutral-400;
+  }
+
+  .my-react-select-container .my-react-select__input-container,
+  .my-react-select-container .my-react-select__placeholder,
+  .my-react-select-container .my-react-select__single-value {
+    @apply text-neutral-600 dark:text-neutral-200;
+  }
+}

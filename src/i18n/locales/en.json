@@ -1,0 +1,1291 @@
+{
+  "login": {
+    "welcome_title": "Welcome",
+    "sub_title": "Please enter your information",
+    "dont_account_title": "Don’t have an account yet?",
+    "signup_link_title": "Sign Up",
+    "forgot_password_link_title": "Request Password",
+    "activation_code": "Activation code",
+    "link_title": "Login",
+    "back_to_login_link": "Back to login"
+  },
+  "signup": {
+    "personal_info_title": "Your personal information",
+    "personal_info_sub_title": "Tell us more about yourself.",
+    "company_info_title": "Your company information",
+    "company_info_sub_title": "Tell us more about your business.",
+    "selection_system_title": "Your system selection",
+    "selection_system_sub_title": "Select your company projects.",
+    "have_account_title": "Already have an account?",
+    "login_link_title": "Login",
+    "preview_demo_title": "Preview you demo",
+    "total_title": "Total",
+    "link_title": "Sign Up"
+  },
+  "forget_password": {
+    "forget_password_title": "Password Recovery",
+    "activation_code": "Activation code",
+    "enter_information": "Please enter your information",
+    "enter_active_code": "Please enter activation code",
+    "new_password": "Please choose a new password"
+  },
+  "text": {
+    "delete_confirm": "Are you sure you wish to delete this item?",
+    "select_definition_type": "Please select a definition type.",
+    "no_definition": "Please select another definition type.",
+    "definition": "Definition",
+    "choose_import_type": "Choose the way you want to import",
+    "Name": "Name",
+    "username": "Username",
+    "investors": "Investors",
+    "contact_info": "Contact info",
+    "updates": "updates",
+    "key_members": "Key members",
+    "choose_header": "Please select a header.",
+    "select_coding": "Please select a coding from the box above.",
+    "click_coding": "Please select a coding from the box on the left.",
+    "start_mapping": "Start mapping to see the result.",
+    "temp_transactions": "Temp transactions",
+    "account_planning": "Account planning",
+    "maps": "Maps",
+    "items_not_mapped": "items not mapped",
+    "please_wait": "Please wait...",
+    "click_to_upload": "Click button below to upload your file",
+    "help_question": "How Can We Help You?",
+    "ask_a_question": "Ask a question",
+    "user_list": "User list",
+    "companyDashboard": "Company dashboard",
+    "home": "Home",
+    "title": "Title",
+    "field": "Field",
+    "founded": "Founded",
+    "bio": "Bio",
+    "location": "Location",
+    "size": "Size",
+    "phase": "Phase",
+    "company_created_successfully": "Company with these information was created successfully!",
+    "no_data": "No Data!",
+    "confirm": "Confirm",
+    "erpSystem": "ERP system",
+    "selectPackage": "Select package",
+    "logo": "Logo",
+    "companyInformation": "Company information",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "filters": "Filters",
+    "investor": "Investor",
+    "startup": "Startup",
+    "or": "or",
+    "loading": "Loading...",
+    "select_company_position": "Please choose the company position",
+    "name": "Name",
+    "family": "Surname",
+    "email": "Email",
+    "mobile": "Mobile",
+    "nothing_found": "Nothing found!",
+    "ad": "Finsmart AI is your financial co-pilot to help you manage your fast growing company, in the best way at an affordable price!",
+    "welcome_title": "Welcome to Finsmart!",
+    "activation_successful": "Your account activation is successful.",
+    "invite_to_login": "Please login to start using your dashboard.",
+    "verification_email_sent": "A verification link was sent to your email. Please click the link to activate your account.",
+    "roles": "Roles",
+    "price": "Price"
+  },
+  "error": {
+    "customer_required": "Please choose customer",
+    "stock_required": "Please choose stock",
+    "personnel_required": "Please choose personnel",
+    "exit_date_required": "Please select exit date",
+    "department_required": "Please choose department",
+    "position_required": "Please choose position",
+    "contract_type_required": "Please choose contract type",
+    "stock_type_required": "Please choose stock type",
+    "customer_type_required": "Please choose customer type",
+    "definition_type_required": "Please choose definition type",
+    "type_required": "Please select import type",
+    "year_required": "Please enter year",
+    "budget_type_required": "Please choose budget type",
+    "url_bad_format": "URL should start with https://",
+    "investor_name_required": "Please enter investor name",
+    "flag_type_required": "Please select a flag type",
+    "file_size": "The file size must be less than",
+    "keyword_required": "Please enter keyword",
+    "header_required": "Please select header",
+    "search_item_required": "Please enter search item",
+    "account_code_required": "Please enter account code",
+    "account_name_required": "Please enter account name",
+    "forget_password_userinfo_required": "Please enter email or username",
+    "enter_active_code": "Please enter activation code",
+    "discipline_type_required": "Please choose discipline type",
+    "file_type_required": "Please choose file type",
+    "issue_date_required": "Please enter issue date",
+    "file_required": "Please choose a file",
+    "inventory_required": "Please choose inventory",
+    "assign_date_required": "Please enter assign date",
+    "return_date_required": "Please enter return date",
+    "leave_type_required": "Please choose leave type",
+    "permission_type_required": "Please choose permission type",
+    "start_date_required": "Please select start date",
+    "end_date_required": "Please enter end date",
+    "workMode_required": "Please choose work mode",
+    "workType_required": "Please choose work type",
+    "city_required": "Please choose city",
+    "companyPositionStatus_required": "Please choose company position status",
+    "positionGroup_required": "Please choose company group",
+    "companyProject_required": "Please choose company project",
+    "closing_date_required": "Please select closing date",
+    "userInfo_required": "Please enter email or phone number",
+    "email_required": "Please enter your email",
+    "email_invalid": "Please enter a valid email address",
+    "center_required": "Please select center",
+    "password_required": "Please choose your password",
+    "enter_password_required": "Please enter your password",
+    "password_invalid": "Password must contain at least one uppercase, one lowercase and one number",
+    "min_pass_required": "Password must contain at least 8 characters",
+    "max_pass_required": "Password must contain at most 16 characters",
+    "repeat_password_required": "Please confirm your password",
+    "password_match_not": "Your password do not match",
+    "first_name_required": "Please enter first name",
+    "last_name_required": "Please enter your last name",
+    "user_name_required": "Please enter your user name",
+    "name_required": "Please enter your name",
+    "family_required": "Please enter surname",
+    "mobileNo_required": "Please enter your phone number",
+    "contact_type_required": "Please select contact type",
+    "url_required": "Please enter URL",
+    "mobileNo_invalid": "Please enter a valid phone number",
+    "national_code_required": "Please enter your national code",
+    "business_title_required": "Please enter your business title",
+    "business_invite_key_required": "Please enter your business invite key",
+    "payment_fail_title": "ooops! Something went wrong.",
+    "payment_fail_sub_title": "Payment failed!",
+    "payment_fail_desc": "We had trouble processing your request. To continue you will need to resubmit your request.",
+    "user_not_found": "User not found",
+    "password_is_invalid": "The password is invalid",
+    "title_required": "Please enter title",
+    "company_id_required": "Please select company",
+    "company_project_id_required": "Please choose the company project",
+    "position_group_id_required": "Please choose the position group",
+    "active_code_required": "Please enter active code",
+    "title_en_required": "Please enter the english title",
+    "code_required": "Please enter the code",
+    "serial_number_required": "Please enter the serial number",
+    "identity_number_required": "Please enter the identity number",
+    "offer_date_required": "Please select offer date",
+    "meeting_date_required": "Please select meeting date",
+    "start_time_required": "Please select start time",
+    "end_time_required": "Please select end time",
+    "cv_file_required": "Please select a CV file",
+    "inventory_type_required": "Please choose the inventory type",
+    "country_required": "Please choose country",
+    "activity_category_required": "Please choose activity category",
+    "establishment_year_required": "Please enter establishment year",
+    "logo_required": "Please select your logo",
+    "erp_system_required": "Please choose ERP system"
+  },
+  "input": {
+    "start_row": {
+      "placeholder": "Start row(Example: 22)"
+    },
+    "exit_date": {
+      "label": "Exit date",
+      "placeholder": "Choose exit date"
+    },
+    "status": {
+      "label": "Status",
+      "placeholder": "Enter status"
+    },
+    "jan_amount": {
+      "label": "January",
+      "placeholder": "Enter amount"
+    },
+    "feb_amount": {
+      "label": "February",
+      "placeholder": "Enter amount"
+    },
+    "mar_amount": {
+      "label": "March",
+      "placeholder": "Enter amount"
+    },
+    "apr_amount": {
+      "label": "April",
+      "placeholder": "Enter amount"
+    },
+    "may_amount": {
+      "label": "May",
+      "placeholder": "Enter amount"
+    },
+    "jun_amount": {
+      "label": "June",
+      "placeholder": "Enter amount"
+    },
+    "jul_amount": {
+      "label": "July",
+      "placeholder": "Enter amount"
+    },
+    "aug_amount": {
+      "label": "August",
+      "placeholder": "Enter amount"
+    },
+    "sep_amount": {
+      "label": "September",
+      "placeholder": "Enter amount"
+    },
+    "oct_amount": {
+      "label": "October",
+      "placeholder": "Enter amount"
+    },
+    "nov_amount": {
+      "label": "November",
+      "placeholder": "Enter amount"
+    },
+    "dec_amount": {
+      "label": "December",
+      "placeholder": "Enter amount"
+    },
+    "personnel": {
+      "label": "Personnel",
+      "placeholder": "Choose the personnel"
+    },
+    "customer": {
+      "label": "Customer",
+      "placeholder": "Choose the customer"
+    },
+    "stock": {
+      "label": "Stock",
+      "placeholder": "Choose the stock"
+    },
+    "department": {
+      "label": "Department",
+      "placeholder": "Choose the department"
+    },
+    "position": {
+      "label": "Position",
+      "placeholder": "Choose the position"
+    },
+    "stock_type": {
+      "placeholder": "Enter stock type",
+      "label": "Stock type"
+    },
+    "customer_type": {
+      "placeholder": "Enter customer type",
+      "label": "Customer type"
+    },
+    "select_definition_type": { "placeholder": "Select definition type" },
+    "definition_type": {
+      "placeholder": "Enter definition type",
+      "label": "Definition type"
+    },
+    "from_file": { "label": "From file" },
+    "other_budget": { "label": "From other budget" },
+    "new_budget": { "label": "New budget" },
+    "update_budget": { "label": "Update existing budget" },
+    "year": { "placeholder": "Enter year", "label": "Year" },
+    "select_year": { "placeholder": "Select year..." },
+    "budget_type": {
+      "placeholder": "Enter budget type",
+      "label": "Budget type"
+    },
+    "investor_name": {
+      "placeholder": "Enter investor name",
+      "label": "Investor name"
+    },
+    "invest_date": {
+      "placeholder": "Pick invest date",
+      "label": "Invest date"
+    },
+    "amount": {
+      "placeholder": "Enter amount",
+      "label": "Amount"
+    },
+    "is_suggest": {
+      "label": "is Suggest"
+    },
+    "contact_type": {
+      "placeholder": "Choose Contact type",
+      "label": "Contact type"
+    },
+    "link": {
+      "placeholder": "Enter URL",
+      "label": "URL"
+    },
+    "investment_so_far": {
+      "placeholder": "Investment so far",
+      "label": "Investment so far"
+    },
+    "company_phase": {
+      "placeholder": "Choose company phase",
+      "label": "Company phase"
+    },
+    "target_group": {
+      "placeholder": "Enter target group",
+      "label": "Target group"
+    },
+    "income_budget_type": {
+      "placeholder": "Choose budget type",
+      "label": "Income budget type"
+    },
+    "sector": {
+      "placeholder": "Choose sector",
+      "label": "Sector"
+    },
+    "number_of_employees": {
+      "placeholder": "Enter number of employees",
+      "label": "number of employees"
+    },
+    "flag_type": {
+      "placeholder": "Choose a flag type",
+      "label": "Flag type"
+    },
+    "select_new_file": "select new file",
+    "upload_new_file": "Upload new file",
+    "keyword": { "placeholder": "Enter keyword", "label": "Keyword" },
+    "choose_header": {
+      "placeholder": "Choose a header",
+      "label": "Header"
+    },
+    "search_user": {
+      "placeholder": "Search user"
+    },
+    "search_item": {
+      "placeholder": "Enter Search item",
+      "label": "Search item"
+    },
+    "account_code": {
+      "placeholder": "Enter account code",
+      "label": "account code"
+    },
+    "account_name": {
+      "placeholder": "Enter account name",
+      "label": "account name"
+    },
+    "type": { "placeholder": "Choose type", "label": "Type" },
+    "erp_system_title": {
+      "placeholder": "Select ERP system",
+      "label": "ERP system"
+    },
+    "companyBio": {
+      "placeholder": "Enter company bio",
+      "label": "Company bio"
+    },
+    "isDemo": {
+      "label": "Is demo"
+    },
+    "logo": {
+      "label": "Logo"
+    },
+    "companyTitle": {
+      "placeholder": "Enter company title",
+      "label": "Company title"
+    },
+    "forget_password": {
+      "placeholder": "Enter your email/username"
+    },
+    "file_type": {
+      "placeholder": "File type",
+      "label": "File type"
+    },
+    "isDeletedByUser": {
+      "placeholder": "isDeletedByUser",
+      "label": "is Deleted By User"
+    },
+    "isUsedByTenant": {
+      "placeholder": "is Used By Tenant",
+      "label": "is Used By Tenant"
+    },
+    "isActive": {
+      "placeholder": "isActive",
+      "label": "isActive"
+    },
+    "login_title": {
+      "label": "Email or phone number",
+      "placeholder": "Enter your email/phone number"
+    },
+    "email_title": {
+      "label": "Email",
+      "placeholder": "Enter your email"
+    },
+    "center_title": {
+      "label": "Center",
+      "placeholder": "Choose the center"
+    },
+    "password_title": {
+      "label": "Password",
+      "placeholder": "Choose your password"
+    },
+    "enter_password_title": {
+      "label": "Password",
+      "placeholder": "Enter your password"
+    },
+    "active_code_title": {
+      "label": "Active code",
+      "placeholder": "Enter active code"
+    },
+    "first_name_title": {
+      "label": "First name",
+      "placeholder": "Enter your first name"
+    },
+    "last_name_title": {
+      "label": "Last name",
+      "placeholder": "Enter your last name"
+    },
+    "user_name_title": {
+      "label": "Username",
+      "placeholder": "Enter your username"
+    },
+    "is_partner": {
+      "label": "Is partner"
+    },
+    "repeat_password_title": {
+      "label": "Repeat password",
+      "placeholder": "Confirm your password"
+    },
+    "phone_number_title": {
+      "label": "Phone number",
+      "placeholder": "Enter your phone number"
+    },
+    "national_code_title": {
+      "label": "National Code",
+      "placeholder": "Enter your national code"
+    },
+    "companyTitle_title": {
+      "label": "Title",
+      "placeholder": "Enter your company title"
+    },
+    "invite_key_title": {
+      "label": "Invite Key",
+      "placeholder": "Enter your invite key"
+    },
+    "description": {
+      "label": "Description",
+      "placeholder": "Write anything"
+    },
+    "candidate_description": {
+      "label": "Candidate Summary",
+      "placeholder": "Write anything"
+    },
+    "title": {
+      "label": "Title",
+      "placeholder": "Enter title"
+    },
+    "title_en": {
+      "label": "Title En",
+      "placeholder": "Enter the english title"
+    },
+    "title_tr": {
+      "label": "Title Tr",
+      "placeholder": "Enter the turkish title"
+    },
+    "company": {
+      "label": "Company",
+      "placeholder": "Choose the company"
+    },
+    "company_project": {
+      "label": "Company project",
+      "placeholder": "Choose the company project"
+    },
+    "company_position": {
+      "label": "Company position",
+      "placeholder": "Choose the company position"
+    },
+    "position_group": {
+      "label": "Position group",
+      "placeholder": "Choose the position group"
+    },
+    "position_detail": {
+      "label": "Position detail",
+      "placeholder": "Enter the position detail"
+    },
+    "name": {
+      "label": "Name",
+      "placeholder": "Enter your name"
+    },
+    "family": {
+      "label": "Surname",
+      "placeholder": "Enter your surname"
+    },
+    "phone_number": {
+      "label": "Phone number",
+      "placeholder": "Enter your phone number"
+    },
+    "end_user": {
+      "label": "End user",
+      "placeholder": "Please choose endUser"
+    },
+    "selected_cv": {
+      "label": "Selected CV",
+      "placeholder": "Please choose selectedCV"
+    },
+    "pre_candidate_status": {
+      "label": "preCandidate status",
+      "placeholder": "Please choose preCandidate status"
+    },
+    "job_position": {
+      "label": "Job position",
+      "placeholder": "Enter the job title"
+    },
+    "job_industry": {
+      "label": "Job industry",
+      "placeholder": "Choose the industry"
+    },
+    "symbol": {
+      "label": "Symbol",
+      "placeholder": "Enter the symbol"
+    },
+    "code": {
+      "label": "Code",
+      "placeholder": "Enter the code"
+    },
+    "currency": {
+      "label": "Currency",
+      "placeholder": "Choose the currency"
+    },
+    "language": {
+      "label": "Language",
+      "placeholder": "Choose the language"
+    },
+    "country": {
+      "label": "Country",
+      "placeholder": "Choose the country"
+    },
+    "province": {
+      "label": "Province",
+      "placeholder": "Choose the province"
+    },
+    "address": {
+      "label": "Address",
+      "placeholder": "Enter the address"
+    },
+    "city": {
+      "label": "City",
+      "placeholder": "Choose the city"
+    },
+    "company_activity_category": {
+      "label": "Activity category",
+      "placeholder": "Choose activity category"
+    },
+    "company_position_status": {
+      "label": "Company position status",
+      "placeholder": "Enter the company position status"
+    },
+    "work_mode": {
+      "label": "Work mode",
+      "placeholder": "Enter the work mode"
+    },
+    "work_type": {
+      "label": "Work type",
+      "placeholder": "Enter the work type"
+    },
+    "salary": {
+      "label": "Salary",
+      "placeholder": "Enter the salary"
+    },
+    "closing_suspending_reason": {
+      "label": "Closing or suspending reason",
+      "placeholder": "Enter the closing or suspending reason"
+    },
+    "closing_date": {
+      "label": "Closing date",
+      "placeholder": "Enter the closing date"
+    },
+    "responsible_man": {
+      "label": "Responsible man",
+      "placeholder": "Enter the responsible man"
+    },
+    "exist_on_kariyer": {
+      "label": "Exit on kariyer",
+      "placeholder": ""
+    },
+    "exist_on_linkedin": {
+      "label": "Exit on linkedin",
+      "placeholder": ""
+    },
+    "is_active": {
+      "label": "Active",
+      "placeholder": ""
+    },
+    "is_on_black_list": {
+      "label": "Black list",
+      "placeholder": ""
+    },
+    "is_closed": {
+      "label": "Closed",
+      "placeholder": ""
+    },
+    "url": {
+      "label": "Url",
+      "placeholder": "Enter the url"
+    },
+    "icon": {
+      "label": "Icon",
+      "placeholder": "Upload your icon"
+    },
+    "target": {
+      "label": "Target",
+      "placeholder": "Enter the target"
+    },
+    "inventory_type": {
+      "label": "Inventory type",
+      "placeholder": "Choose the inventory type"
+    },
+    "serial_number": {
+      "label": "Serial number",
+      "placeholder": "Please enter the serial number"
+    },
+    "model": {
+      "label": "Model",
+      "placeholder": "Please enter the model"
+    },
+    "brand": {
+      "label": "Brand",
+      "placeholder": "Please enter the brand"
+    },
+    "inventory_number": {
+      "label": "Inventory number",
+      "placeholder": "Please enter the inventory number"
+    },
+    "purchased_location_and_date": {
+      "label": "Purchased location and date",
+      "placeholder": "Please enter the purchased location"
+    },
+    "windows": {
+      "label": "Windows",
+      "placeholder": "Please enter the windows"
+    },
+    "windows_password": {
+      "label": "Windows password",
+      "placeholder": "Please enter the windows password"
+    },
+    "virus_program": {
+      "label": "Virus program",
+      "placeholder": "Please enter the virus program"
+    },
+    "virus_program_password": {
+      "label": "Virus program password",
+      "placeholder": "Please enter the virus program password"
+    },
+    "office_program": {
+      "label": "Office program",
+      "placeholder": "Please enter the office program"
+    },
+    "office_program_key": {
+      "label": "Office program key",
+      "placeholder": "Please enter the office program key"
+    },
+    "windows_username": {
+      "label": "Windows username",
+      "placeholder": "Please enter the windows username"
+    },
+    "windows_user_password": {
+      "label": "Windows user password",
+      "placeholder": "Please enter the windows user password"
+    },
+    "password_hint": {
+      "label": "Password hint",
+      "placeholder": "Please enter the password hint"
+    },
+    "search": {
+      "label": "Search",
+      "placeholder": "Search..."
+    },
+    "start_period": {
+      "label": "Notice Period (Week)",
+      "placeholder": "Enter Notice Period (Week)"
+    },
+    "total_IT_experience": {
+      "label": "total IT experience",
+      "placeholder": "Enter total IT experience"
+    },
+    "total_IT_experience_month": {
+      "label": "total IT experience month",
+      "placeholder": "Enter total IT experience month"
+    },
+    "blacklist_reason": {
+      "label": "Blacklist reason",
+      "placeholder": "Enter blacklist reason"
+    },
+    "person": {
+      "label": "Person",
+      "placeholder": "Choose the person"
+    },
+    "candidate_position": {
+      "label": "Candidate position",
+      "placeholder": "Choose the candidate position"
+    },
+    "military_status": {
+      "label": "Military Status",
+      "placeholder": "Choose the military Status"
+    },
+    "identity_number": {
+      "label": "Identity number",
+      "placeholder": "Enter identity number"
+    },
+    "accommodation_address": {
+      "label": "Accommodation address",
+      "placeholder": "Enter accommodation address"
+    },
+    "postponement_date": {
+      "label": "Postponement date",
+      "placeholder": "Enter postponement date"
+    },
+    "contract_type": {
+      "label": "Contract type",
+      "placeholder": "Choose the contract type"
+    },
+    "contract_duration": {
+      "label": "Contract duration",
+      "placeholder": "Enter contract duration"
+    },
+    "employee_title": {
+      "label": "Employee title",
+      "placeholder": "Choose the employee title"
+    },
+    "work_location": {
+      "label": "Work location",
+      "placeholder": "Choose the work location"
+    },
+    "school_of_graduation": {
+      "label": "School of graduation",
+      "placeholder": "Enter school of graduation"
+    },
+    "department_of_graduation": {
+      "label": "Department of graduation",
+      "placeholder": "Enter department of graduation"
+    },
+    "date_of_graduation": {
+      "label": "Date of graduation",
+      "placeholder": "Enter date of graduation"
+    },
+    "IBAN_number": {
+      "label": "IBAN number",
+      "placeholder": "Enter IBAN number"
+    },
+    "company_email": {
+      "label": "Company email",
+      "placeholder": "Enter company email"
+    },
+    "blood_group": {
+      "label": "Blood group",
+      "placeholder": "Enter blood group"
+    },
+    "emergency_contact_information": {
+      "label": "Emergency contact information",
+      "placeholder": "Enter emergency contact information"
+    },
+    "birth_certificate_number": {
+      "label": "Birth certificate number",
+      "placeholder": "Enter birth certificate number"
+    },
+    "manager": {
+      "label": "Manager",
+      "placeholder": "Enter manager"
+    },
+    "is_approved": {
+      "label": "Is approved"
+    },
+    "is_on_blacklist": {
+      "label": "Is on blacklist"
+    },
+    "offer_content": {
+      "label": "Offer content",
+      "placeholder": "Enter offer content"
+    },
+    "offer_result": {
+      "label": "Offer result",
+      "placeholder": "Enter offer result"
+    },
+    "offer_date": {
+      "label": "Offer date",
+      "placeholder": "Enter offer date"
+    },
+    "meeting_date": {
+      "label": "Meeting date",
+      "placeholder": "Enter meeting date"
+    },
+    "all_day": {
+      "label": "All day",
+      "placeholder": "All day"
+    },
+    "start_time": {
+      "label": "start time",
+      "placeholder": "Enter start time"
+    },
+    "end_time": {
+      "label": "End time",
+      "placeholder": "Enter end time"
+    },
+    "color": {
+      "label": "color",
+      "placeholder": "Enter color"
+    },
+    "meeting_result": {
+      "label": "Meeting result",
+      "placeholder": "Enter meeting result"
+    },
+    "assign_date": {
+      "label": "Assign date",
+      "placeholder": "Enter assign date"
+    },
+    "return_date": {
+      "label": "Return date",
+      "placeholder": "Enter return date"
+    },
+    "inventory": {
+      "label": "Inventory",
+      "placeholder": "Choose inventory"
+    },
+    "permission_type": {
+      "label": "Permission type",
+      "placeholder": "Choose permission type"
+    },
+    "leave_type": {
+      "label": "Leave type",
+      "placeholder": "Choose leave type"
+    },
+    "start_date": {
+      "label": "Start date",
+      "placeholder": "Choose start date"
+    },
+    "end_date": {
+      "label": "End date",
+      "placeholder": "Choose end date"
+    },
+    "meeting_speaking_person": {
+      "label": "Meeting speaking person",
+      "placeholder": "Enter meeting speaking person"
+    },
+    "cv_resource": {
+      "label": "CV resource",
+      "placeholder": "Enter CV resource"
+    },
+    "discipline_type": {
+      "label": "Discipline type",
+      "placeholder": "Enter discipline type"
+    },
+    "issue_date": {
+      "label": "Issue date",
+      "placeholder": "Enter issue date"
+    },
+    "establishment_year": {
+      "label": "Establishment year",
+      "placeholder": "Enter establishment year"
+    },
+    "up_to_title": "up to",
+    "upload_avatar_title": "upload your avatar",
+    "upload_logo_title": "upload your logo",
+    "current_status": "Current status",
+    "choose_status": "Choose the status"
+  },
+  "button": {
+    "accept_file":"Accept file",
+    "apply":"apply",
+    "copy_values": "Copy values",
+    "values_copied": "Values copied!",
+    "import_title": "Import",
+    "download_sample_file": "Download sample file",
+    "follow_title": "Follow",
+    "profile_title": "Profile",
+    "request_title": "Request",
+    "start_mapping_title": "Start mapping",
+    "finish_mapping_title": "Finish mapping",
+    "save_change": "Save changes",
+    "upload": "Upload",
+    "select_header_title": "Select header",
+    "create_ticket_title": "Create Ticket",
+    "add_user": "Add user",
+    "submit_title": "submit",
+    "next_title": "next",
+    "previous_title": "Prev",
+    "is_demo_title": "IS DEMO",
+    "resubmit_title": "resubmit",
+    "back_to_cart_title": "back to cart",
+    "save_title": "Save",
+    "create_title": "Create",
+    "edit_title": "Edit",
+    "search_title": "Search",
+    "back_title": "Back",
+    "select_title": "Select",
+    "CV": "Upload CV",
+    "upload_file": "Upload file",
+    "login_title": "Login",
+    "confirm_title": "Confirm",
+    "delete_title": "Delete",
+    "cancel_title": "No, keep it!"
+  },
+  "link": {
+    "terms_condition_title": "Terms & Condition",
+    "privacy_policy_title": "Privacy & Policy"
+  },
+  "language": {
+    "language_title": "Language"
+  },
+  "theme": {
+    "dark_mode_title": "Dark Mode"
+  },
+  "notification": {
+    "data_success": "Data saved successfully"
+  },
+  "navbar": {
+    "customer_title": "Customer",
+    "stock_title": "Stock",
+    "personnel_title": "Personnel",
+    "definition_title": "Definition",
+    "file_Upload_title": "File upload",
+    "budget_management_title": "Budget management",
+    "budget_title": "Budget",
+    "accountPlan_title": "Account plan",
+    "selectCompany_title": "Select company",
+    "helpDesk_title": "Help desk",
+    "dataUpload_title": "Data upload",
+    "users_title": "Users",
+    "flags_title": "Flags",
+    "coding_title": "Coding",
+    "profile_title": "Profile",
+    "dashboard_title": "Dashboard",
+    "company_title": "Company",
+    "user_company_title": "User company",
+    "account_planning_title": "Account planning",
+    "company_project_title": "Company Project",
+    "company_position_title": "Company Position",
+    "offers_title": "Offers",
+    "referrals_title": "Referrals",
+    "documents_title": "Documents",
+    "organization_section_title": "Organization",
+    "employees_title": "Employees",
+    "calendar_title": "Calendar",
+    "settings_title": "Settings",
+    "log_out_title": "Log Out",
+    "timesheet_title": "Time Sheet",
+    "overview_title": "overview",
+    "FAQ_title": "FAQ",
+    "tutorials_title": "Tutorials",
+    "tickets_title": "tickets",
+    "contact_us_title": "contact us",
+    "licenses_title": "licenses"
+  },
+  "table": {
+    "col": {
+      "personnel": "Personnel",
+      "stock": "Stock",
+      "customer": "Customer",
+      "start_date": "Start Date",
+      "exit_date": "Exit Date",
+      "jan": "Jan",
+      "feb": "Feb",
+      "mar": "Mar",
+      "apr": "Apr",
+      "may": "May",
+      "jun": "Jun",
+      "jul": "Jul",
+      "aug": "Aug",
+      "sep": "Sep",
+      "oct": "Oct",
+      "nov": "Nov",
+      "dec": "Dec",
+      "year": "Year",
+      "flag_type": "Flag type",
+      "credit": "Credit",
+      "debit": "Debit",
+      "reference_description": "Reference description",
+      "column": "Column",
+      "reference_number": "Reference Number",
+      "account_title": "Account Title",
+      "reference_type": "Reference Type",
+      "account_number": "Account Number",
+      "from_date": "From Date",
+      "to_date": "To Date",
+      "file_number": "File Number",
+      "file_name": "File Name",
+      "keyword": "Keyword",
+      "username": "Username",
+      "job": "Job",
+      "role": "Role",
+      "joined_date": "Joined date",
+      "search_item": "Search item",
+      "budget_type": "Budget Type",
+      "account_code": "Account Code",
+      "account_name": "Account Name",
+      "file_type": "File type",
+      "discipline_type": "Discipline type",
+      "issue_date": "Issue date",
+      "inventory_model": "Model",
+      "inventory_brand": "Brand",
+      "inventory_serialNumber": "Serial No.",
+      "permission_type": "Permission type",
+      "leave_type": "Leave type",
+      "start": "Start",
+      "end": "End",
+      "assign_date": "Assign date",
+      "return_date": "Return date",
+      "filename": "File Name",
+      "no": "No.",
+      "tenant": "Tenant",
+      "title": "Title",
+      "title_en": "Title en",
+      "title_tr": "Title tr",
+      "action": "Action",
+      "description": "Description",
+      "position_detail": "Position detail",
+      "salary": "Salary",
+      "name": "Name",
+      "family": "Surname",
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "status": "Status",
+      "symbol": "Symbol",
+      "code": "Code",
+      "address": "Address",
+      "language": "Language",
+      "currency": "Currency",
+      "country": "Country",
+      "province": "Province",
+      "city": "City",
+      "url": "URL",
+      "target": "Target",
+      "model": "Model",
+      "brand": "Brand",
+      "inventory_number": "Inventory number",
+      "employee_title": "Employee title",
+      "company_email": "Company email",
+      "candidate": "Candidate",
+      "offer_content": "Offer content",
+      "result": "Result",
+      "speaking_person": "Interviewer",
+      "start_time": "Start time",
+      "end_time": "End time"
+    },
+    "result": "Result",
+    "no_data": "There is no data!"
+  },
+  "page_title": {
+    "accept_file": "Accept file",
+    "create_budget_detail": "Create budget detail",
+    "edit_budget_detail": "edit budget detail",
+    "budget_info": "Budget info",
+    "company_budget": "Company budget",
+    "confirmation": "Confirmation",
+    "customer": "Customer",
+    "create_customer": "Create customer",
+    "edit_customer": "Edit customer",
+    "stock": "Stock",
+    "create_stock": "Create stock",
+    "edit_stock": "Edit stock",
+    "personnel": "Personnel",
+    "create_personnel": "Create personnel",
+    "edit_personnel": "Edit personnel",
+    "create_definition": "Create definition",
+    "edit_definition": "Edit definition",
+    "definition": "Definition",
+    "import_type": "Import type",
+    "budget_file": "Budget file",
+    "create_budget_header": "Create budget header",
+    "help_desk": "Help desk",
+    "file_upload": "File upload",
+    "budget": "Budget",
+    "upload_budget_file": "Upload budget file",
+    "create_investor": "Create investor",
+    "contact_info": "Add contact info",
+    "create_user": "Create user",
+    "transactions": "Transactions",
+    "mapping": "Mapping",
+    "upload_company_file": "Upload company file",
+    "data_upload": "Data upload",
+    "choose_header": "Header selection",
+    "profile": "Profile",
+    "user_list": "User list",
+    "overview": "Overview",
+    "planning_detail": "Planning details",
+    "account_planning": "Account planning",
+    "create_account_planning": "Create account planning",
+    "edit_account_planning": "Edit account planning",
+    "create_coding": "Create coding",
+    "edit_coding": "Edit coding",
+    "code_mapper": "Code Mapper",
+    "create_code_mapper": "Create code mapper",
+    "edit_code_mapper": "Edit code mapper",
+    "coding_flag": "Coding flag",
+    "create_coding_flag": "Create coding flag",
+    "edit_coding_flag": "Edit coding flag",
+    "signUp": "Sign Up",
+    "enter_active_code": "Please enter activation code",
+    "employee_quit": "Employee quit",
+    "new_employee_file": "New employee file",
+    "new_employee_discipline": "New employee discipline",
+    "edit_employee_discipline": "Edit employee discipline",
+    "disciplineType": "Discipline Type",
+    "edit_disciplineType": "Edit Discipline Type",
+    "create_disciplineType": "Create Discipline Type",
+    "edit_fileType": "Edit File Type",
+    "create_fileType": "Create File Type",
+    "fileType": "File Type",
+    "employee_discipline": "Employee discipline",
+    "employee_file": "Employee file",
+    "uploadCv": "Upload Cv",
+    "company": "Company",
+    "create_company": "Create company",
+    "edit_company": "Edit company",
+    "company_project": "Company Project",
+    "create_company_project": "Create company project",
+    "edit_company_project": "Edit company project",
+    "company_position": "Company position",
+    "create_company_position": "Create company position",
+    "edit_company_position": "Edit company position",
+    "pre_candidate": "PreCandidate",
+    "create_pre_candidate": "Create preCandidate",
+    "edit_pre_candidate": "Edit preCandidate",
+    "account_type": "Account Types",
+    "create_account_type": "Create account type",
+    "edit_account_type": "Edit account type",
+    "province": "Province",
+    "create_province": "Create province",
+    "edit_province": "Edit province",
+    "country": "Country",
+    "create_country": "Create country",
+    "edit_country": "Edit country",
+    "currency": "Currency",
+    "create_currency": "Create currency",
+    "edit_currency": "Edit currency",
+    "language": "Language",
+    "create_language": "Create language",
+    "contract_type": "Contract type",
+    "create_contract_type": "Create contract type",
+    "edit_contract_type": "Edit contract type",
+    "city": "City",
+    "create_city": "Create city",
+    "edit_city": "Edit city",
+    "course_type": "Course type",
+    "create_course_type": "Create course type",
+    "edit_course_type": "Edit course type",
+    "expertise": "Expertise",
+    "create_expertise": "Create expertise",
+    "edit_expertise": "Edit expertise",
+    "feature": "Feature",
+    "create_feature": "Create feature",
+    "edit_feature": "Edit feature",
+    "inventory_type": "Inventory type",
+    "create_inventory_type": "Create inventory type",
+    "edit_inventory_type": "Edit inventory type",
+    "leave_type": "Leave type",
+    "create_leave_type": "Create leave type",
+    "edit_leave_type": "Edit leave type",
+    "military_status": "Military status",
+    "create_military_status": "Create military status",
+    "edit_military_status": "Edit military status",
+    "permission_type": "Permission type",
+    "create_permission_type": "Create permission type",
+    "edit_permission_type": "Edit permission type",
+    "work_type": "Work type",
+    "create_work_type": "Create work type",
+    "edit_work_type": "Edit work type",
+    "work_mode": "Work mode",
+    "create_work_mode": "Create work mode",
+    "edit_work_mode": "Edit work mode",
+    "work_location": "Work location",
+    "create_work_location": "Create work location",
+    "edit_work_location": "Edit work location",
+    "role": "Role",
+    "create_role": "Create role",
+    "edit_role": "Edit role",
+    "role_permission": "Role permission",
+    "create_role_permission": "Create role permission",
+    "edit_role_permission": "Edit role permission",
+    "packet": "Packet",
+    "create_packet": "Create packet",
+    "edit_packet": "Edit packet",
+    "employee": "Employee",
+    "employee_leave": "Employee leave",
+    "employee_inventory": "Employee inventory",
+    "create_employee": "Create employee",
+    "edit_employee": "Edit employee",
+    "employee_title": "Employee title",
+    "create_employee_title": "Create employee title",
+    "edit_employee_title": "Edit employee title",
+    "new_employee_inventory": "New employee inventory",
+    "edit_employee_inventory": "Edit employee inventory",
+    "new_employee_leave": "New employee leave",
+    "edit_employee_leave": "Edit employee leave",
+    "company_position_status": "Company position status",
+    "create_company_position_status": "Create company position status",
+    "edit_company_position_status": "Edit company position status",
+    "company_position_group": "Company position group",
+    "create_company_position_group": "Create company position group",
+    "edit_company_position_group": "Edit company position group",
+    "candidate_position_status": "Candidate position status",
+    "create_candidate_position_status": "Create candidate position status",
+    "edit_candidate_position_status": "Edit candidate position status",
+    "inventory": "Inventory",
+    "create_inventory": "Create inventory",
+    "edit_inventory": "Edit inventory",
+    "person": "Person",
+    "create_person": "Create person",
+    "edit_person": "Edit person",
+    "create_candidate": "Create candidate",
+    "edit_candidate": "Edit candidate",
+    "change_status": "Change status",
+    "search_result": "Search result",
+    "position_offer": "Position offer",
+    "new_position_offer": "New position offer",
+    "edit_position_offer": "Edit position offer",
+    "position_meeting": "Position meeting",
+    "new_position_meeting": "New position meeting",
+    "edit_position_meeting": "Edit position meeting"
+  },
+  "toast": {
+    "success": "Your information saved successfully",
+    "error": "An error occured, please try again",
+    "active_code_invalid": "Activation code is invalid",
+    "user_pass_invalid": "Username or password is invalid",
+    "success_delete": "Data deleted successfully",
+    "duplicate_user": "User already exists",
+    "duplicate_user_company": "User company already exists",
+    "no_CV": "No CV uploaded!",
+    "CV_upload_first": "CV should be uploaded first",
+    "password_change_successful": "Your password has changed successfully"
+  },
+  "profile_menu": {
+    "my_profile": "My profile",
+    "my_projects": "My projects",
+    "my_statements": "My statements",
+    "language": "Language",
+    "account_setting": "Account setting",
+    "sign_out": "Sign out"
+  },
+  "select": {
+    "no_options_message": "No options"
+  },
+  "mobile_input": {
+    "not_found": "Nothing found"
+  },
+  "tooltip": {
+    "download": "Download",
+    "convert": "Convert",
+    "start_mapping": "Start mapping",
+    "accept_file": "Accept file",
+    "transaction": "Transactions",
+    "confirm": "Confirm",
+    "export": "Export",
+    "details": "Details",
+    "add_detail": "Add detail",
+    "employees": "Employees",
+    "followers": "Followers"
+  },
+  "tab": {
+    "base_info": "Base Info",
+    "detail": "Detail",
+    "contract_info": "Contract info",
+    "employment_info": "Employment info",
+    "overview": "Overview"
+  },
+  "popup": {
+    "edit": "Edit"
+  },
+  "notif_popup": {
+    "notifications": "Notifications",
+    "request": "Request"
+  },
+  "badge": {
+    "new": "New"
+  }
+}

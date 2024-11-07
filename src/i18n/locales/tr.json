@@ -1,0 +1,1284 @@
+{
+  "login": {
+    "welcome_title": "Hoş geldiniz",
+    "sub_title": "Lütfen bilgilerinizi giriniz",
+    "dont_account_title": "Henüz bir hesabınız yok mu?",
+    "signup_link_title": "üye Olun",
+    "forgot_password_link_title": "Şifre İste",
+    "activation_code": "Aktivasyon kodu",
+    "link_title": "Giriş yapın",
+    "back_to_login_link": "Girişe geri dön"
+  },
+  "signup": {
+    "personal_info_title": "kişisel bilgilerin",
+    "personal_info_sub_title": "Bize kendinizden daha fazla bahsedin",
+    "company_info_title": "Şirket bilgileriniz",
+    "company_info_sub_title": "Bize işletmeniz hakkında daha fazla bilgi verin.",
+    "selection_system_title": "Sistem seçiminiz",
+    "selection_system_sub_title": "Şirket projelerinizi seçin.",
+    "have_account_title": "Zaten hesabınız var mı?",
+    "login_link_title": "Giriş yapın",
+    "preview_demo_title": "Demonuzu önizleyin",
+    "total_title": "Toplam",
+    "link_title": "Hemen Üye olun"
+  },
+  "forget_password": {
+    "forget_password_title": "Şifre kurtarma",
+    "activation_code": "Aktivasyon kodu",
+    "enter_information": "Lütfen bilgilerinizi girin",
+    "enter_active_code": "Lütfen aktivasyon kodunu girin",
+    "new_password": "Lütfen yeni bir şifre seçin"
+  },
+  "text": {
+    "delete_confirm": "Bu öğeyi silmek istediğinizden emin misiniz?",
+    "select_definition_type": "Lütfen bir tanım türü seçin.",
+    "no_definition": "Lütfen başka bir tanım türü seçin.",
+    "definition": "Tanım",
+    "choose_import_type": "İçe aktarmak istediğiniz yöntemi seçin",
+    "Name": "İsim",
+    "username": "Kullanıcı adı",
+    "investors": "Yatırımcılar",
+    "contact_info": "İletişim bilgileri",
+    "updates": "güncellemeler",
+    "key_members": "Anahtar üyeler",
+    "choose_header": "Lütfen bir başlık seçin.",
+    "select_coding": "Lütfen yukarıdaki kutudan bir kodlama seçiniz.",
+    "click_coding": "Lütfen sol taraftaki kutudan bir kod seçiniz.",
+    "start_mapping": "Sonucu görmek için haritalamaya başlayın.",
+    "temp_transactions": "Geçici işlemler",
+    "account_planning": "Hesap planlama",
+    "maps": "Haritalar",
+    "items_not_mapped": "öğe eşlenmedi",
+    "please_wait": "Lütfen bekleyin...",
+    "click_to_upload": "Dosyanızı yüklemek için aşağıdaki butona tıklayın",
+    "help_question": "Nasıl yardım edebiliriz?",
+    "ask_a_question": "bir soru sor",
+    "user_list": "Kullanıcı listesi",
+    "companyDashboard": "Şirket kontrol paneli",
+    "home": "Ev",
+    "title": "Başlık",
+    "field": "Alan",
+    "founded": "Kurulan",
+    "bio": "Biyografi",
+    "location": "Konum",
+    "size": "Boyut",
+    "phase": "Faz",
+    "company_created_successfully": "Bu bilgilere sahip şirket başarıyla oluşturuldu!",
+    "no_data": "Veri yok!",
+    "confirm": "Onaylamak",
+    "erpSystem": "ERP sistemi",
+    "selectPackage": "Paket seçin",
+    "logo": "Logo",
+    "companyInformation": "Şirket Bilgisi",
+    "dashboard": "Gösterge Paneli",
+    "profile": "Profil",
+    "filters": "Filtreler",
+    "investor": "yatırımcı",
+    "startup": "başlatmak",
+    "or": "veya",
+    "loading": "Yükleniyor...",
+    "select_company_position": "Lütfen şirket pozisyonunu seçin",
+    "name": "Ad",
+    "family": "Soyad",
+    "email": "E-posta",
+    "mobile": "Mobil",
+    "nothing_found": "Hiçbirşey Bulunamadı!",
+    "ad": "Finsmart AI, hızla büyüyen şirketinizi en iyi şekilde ve uygun fiyata yönetmenize yardımcı olacak finansal yardımcı pilotunuzdur!",
+    "welcome_title": "Finsmart'a hoş geldiniz!",
+    "activation_successful": "Hesap aktivasyonunuz başarılı.",
+    "invite_to_login": "Kontrol panelinizi kullanmaya başlamak için lütfen giriş yapın.",
+    "verification_email_sent": "E-postanıza bir doğrulama bağlantısı gönderildi. Hesabınızı etkinleştirmek için lütfen bağlantıya tıklayın.",
+    "roles": "Roller",
+    "price": "Fiyat"
+  },
+  "error": {
+    "customer_required": "Lütfen müşteri seçin",
+    "stock_required": "Lütfen stok seçin",
+    "personnel_required": "Lütfen personel seçiniz",
+    "exit_date_required": "Lütfen çıkış tarihini seçin",
+    "contract_type_required": "Lütfen sözleşme türünü seçin",
+    "department_required": "Lütfen bölüm seçiniz",
+    "position_required": "Lütfen pozisyon seçin",
+    "stock_type_required": "Lütfen stok türünü seçin",
+    "customer_type_required": "Lütfen müşteri türünü seçin",
+    "definition_type_required": "Lütfen tanım türünü seçin",
+    "type_required": "Lütfen içe aktarma türünü seçin",
+    "year_required": "Lütfen yılı girin",
+    "budget_type_required": "Lütfen bütçe türünü seçin",
+    "url_bad_format": "URL https:// ile başlamalıdır",
+    "investor_name_required": "Lütfen yatırımcı adını giriniz",
+    "flag_type_required": "Lütfen bir bayrak türü seçin",
+    "file_size": "Dosya boyutu şundan küçük olmalıdır:",
+    "keyword_required": "Lütfen anahtar kelimeyi girin",
+    "header_required": "Lütfen başlığı seçin",
+    "search_item_required": "Lütfen arama öğesini girin",
+    "account_code_required": "Lütfen hesap kodunu girin",
+    "account_name_required": "Lütfen hesap adını girin",
+    "forget_password_userinfo_required": "Lütfen e-posta veya kullanıcı adını girin",
+    "enter_active_code": "Lütfen aktivasyon kodunu girin",
+    "discipline_type_required": "Lütfen disiplin türünü seçin",
+    "file_type_required": "Lütfen dosya türünü seçin",
+    "issue_date_required": "Lütfen yayınlanma tarihini girin",
+    "file_required": "Lütfen bir dosya seçin",
+    "inventory_required": "Lütfen envanter seçin",
+    "assign_date_required": "Lütfen atama tarihini girin",
+    "return_date_required": "Lütfen dönüş tarihini girin",
+    "leave_type_required": "Lütfen izin türünü seçin",
+    "permission_type_required": "Lütfen izin türünü seçin",
+    "start_date_required": "Lütfen başlangıç ​​tarihini girin",
+    "end_date_required": "Lütfen bitiş tarihini girin",
+    "workMode_required": "Lütfen Çalışma Tipini Girin",
+    "workType_required": "Lütfen İş Türünü Giriniz",
+    "city_required": "Lütfen Şehir Giriniz",
+    "companyPositionStatus_required": "Lütfen Şirket Pozisyon Durumunu Giriniz",
+    "positionGroup_required": "Lütfen Şirket Grubunu Giriniz",
+    "companyProject_required": "Lütfen Firma Projesini Giriniz",
+    "closing_date_required": "Lütfen kapanış tarihini seçin",
+    "userInfo_required": "Lütfen e-posta veya telefon numarasını girin",
+    "email_required": "Lütfen e-posta giriniz",
+    "center_required": "Lütfen merkeze girin",
+    "password_required": "Lütfen şifre giriniz",
+    "enter_password_required": "Şifrenizi giriniz Lütfen",
+    "user_name_required": "Lütfen kullanıcı adınızı giriniz",
+    "first_name_required": "Lütfen adınızı girin",
+    "last_name_required": "Lütfen soyadınızı giriniz",
+    "name_required": "Lütfen adınızı girin",
+    "family_required": "Lütfen soyadınızı girin",
+    "password_invalid": "Şifre en az bir büyük harf, bir küçük harf ve bir rakam içermelidir",
+    "min_pass_required": "Şifre en az 8 karakter içermelidir",
+    "max_pass_required": "Şifre en fazla 16 karakter içermelidir",
+    "repeat_password_required": "Lütfen şifrenizi doğrulayınız",
+    "password_match": "Parolalarınız eşleşmiyor",
+    "email_invalid": "Lütfen geçerli bir e-posta adresi girin",
+    "mobileNo_required": "Lütfen telefon numaranızı giriniz",
+    "url_required": "Lütfen URL'yi girin",
+    "contact_type_required": "Lütfen iletişim türünü seçin",
+    "mobileNo_invalid": "Lütfen geçerli bir telefon numarası girin",
+    "national_code_required": "Lütfen ulusal kodunuzu girin",
+    "business_title_required": "Lütfen işletme unvanınızı girin",
+    "business_invite_key_required": "Lütfen işletmenizin davet anahtarını girin",
+    "payment_fail_title": "Hay Aksi! Bir şeyler yanlış gitti.",
+    "payment_fail_sub_title": "Ödeme başarısız!",
+    "payment_fail_desc": "İsteğinizi işleme koyarken sorun yaşadık. Devam etmek için talebinizi yeniden göndermeniz gerekecek.",
+    "user_not_found": "Kullanıcı bulunamadı",
+    "password_is_invalid": "Şifre geçersiz",
+    "title_required": "Lütfen başlığı girin",
+    "company_id_required": "lütfen firma seçiniz",
+    "company_project_id_required": "Lütfen şirket projesini seçin",
+    "position_group_id_required": "Lütfen pozisyon grubunu seçiniz",
+    "active_code_required": "Lütfen aktif kodu girin",
+    "title_en_required": "Lütfen İngilizce başlığı girin",
+    "code_required": "Lütfen kodu girin",
+    "serial_number_required": "Lütfen seri numarasını girin",
+    "identity_number_required": "Lütfen kimlik numarasını giriniz",
+    "offer_date_required": "Lütfen teklif tarihini seçin",
+    "meeting_date_required": "Lütfen toplantı tarihini seçin",
+    "start_time_required": "Lütfen başlangıç ​​zamanını seçin",
+    "end_time_required": "Lütfen bitiş zamanını seçin",
+    "cv_file_required": "Lütfen bir CV dosyası seçin",
+    "inventory_type_required": "Lütfen envanter türünü seçin",
+    "country_required": "Lütfen ülkeyi seçin",
+    "activity_category_required": "Lütfen aktivite kategorisini seçin",
+    "establishment_year_required": "Lütfen kuruluş yılını giriniz",
+    "logo_required": "Lütfen logonuzu seçin",
+    "erp_system_required": "Lütfen ERP sistemini seçin"
+  },
+  "input": {
+    "start_row": {
+      "placeholder": "Başlangıç ​​satırı(Örnek: 22)"
+    },
+    "exit_date": {
+      "label": "Çıkış tarihi",
+      "placeholder": "Çıkış tarihini seçin"
+    },
+    "status": {
+      "label": "Durum",
+      "placeholder": "Durumu girin"
+    },
+    "jan_amount": {
+      "label": "Ocak",
+      "placeholder": "Miktarı girin"
+    },
+    "feb_amount": {
+      "label": "Şubat",
+      "placeholder": "Miktarı girin"
+    },
+    "mar_amount": {
+      "label": "Mart",
+      "placeholder": "Miktarı girin"
+    },
+    "apr_amount": {
+      "label": "Nisan",
+      "placeholder": "Miktarı girin"
+    },
+    "may_amount": {
+      "label": "Mayıs",
+      "placeholder": "Miktarı girin"
+    },
+    "jun_amount": {
+      "label": "Haziran",
+      "placeholder": "Miktarı girin"
+    },
+    "jul_amount": {
+      "label": "Temmuz",
+      "placeholder": "Miktarı girin"
+    },
+    "aug_amount": {
+      "label": "Ağustos",
+      "placeholder": "Miktarı girin"
+    },
+    "sep_amount": {
+      "label": "Eylül",
+      "placeholder": "Miktarı girin"
+    },
+    "oct_amount": {
+      "label": "Ekim",
+      "placeholder": "Miktarı girin"
+    },
+    "nov_amount": {
+      "label": "Kasım",
+      "placeholder": "Miktarı girin"
+    },
+    "dec_amount": {
+      "label": "Aralık",
+      "placeholder": "Miktarı girin"
+    },
+    "personnel": {
+      "label": "Personel",
+      "placeholder": "Personeli seçin"
+    },
+    "customer": {
+      "label": "Müşteri",
+      "placeholder": "Müşteriyi seçin"
+    },
+    "stock": {
+      "label": "Stoklamak",
+      "placeholder": "Hisse senedini seçin"
+    },
+    "department": {
+      "label": "Departman",
+      "placeholder": "Departmanı seçin"
+    },
+    "position": {
+      "label": "Konum",
+      "placeholder": "Pozisyonu seçin"
+    },
+    "stock_type": {
+      "placeholder": "Stok türünü girin",
+      "label": "Stok türü"
+    },
+    "customer_type": {
+      "placeholder": "Müşteri türünü girin",
+      "label": "Müşteri tipi"
+    },
+    "select_definition_type": { "placeholder": "Tanım türünü seçin" },
+    "definition_type": {
+      "placeholder": "Tanım türünü girin",
+      "label": "Tanım türü"
+    },
+    "from_file": { "label": "Dosyadan" },
+    "other_budget": { "label": "Diğer bütçeden" },
+    "new_budget": {
+      "label": "Yeni bütçe"
+    },
+    "update_budget": {
+      "label": "Mevcut bütçeyi güncelle"
+    },
+    "year": { "placeholder": "Yılı girin", "label": "yıl" },
+    "select_year": { "placeholder": "Yıl seçin..." },
+    "budget_type": {
+      "placeholder": "Bütçe türünü girin",
+      "label": "Bütçe türü"
+    },
+    "investor_name": {
+      "placeholder": "Yatırımcı adını girin",
+      "label": "Yatırımcı adı"
+    },
+    "invest_date": {
+      "placeholder": "Yatırım tarihini seçin",
+      "label": "Yatırım tarihi"
+    },
+    "amount": {
+      "placeholder": "Tutarı girin",
+      "label": "Miktar"
+    },
+    "is_suggest": {
+      "label": "Öner"
+    },
+    "contact_type": {
+      "placeholder": "İletişim türünü seçin",
+      "label": "İletişim Türü"
+    },
+    "link": {
+      "placeholder": "URL girin",
+      "label": "URL'si"
+    },
+    "investment_so_far": {
+      "placeholder": "Şu ana kadar yatırım",
+      "label": "Şu ana kadar yatırım"
+    },
+    "company_phase": {
+      "placeholder": "Şirket aşamasını seçin",
+      "label": "Şirket aşaması"
+    },
+    "target_group": {
+      "placeholder": "Hedef grubu girin",
+      "label": "Hedef kitle"
+    },
+    "income_budget_type": {
+      "placeholder": "Bütçe türünü seçin",
+      "label": "Gelir bütçesi türü"
+    },
+    "sector": {
+      "placeholder": "Sektör seçin",
+      "label": "Sektör"
+    },
+    "number_of_employees": {
+      "placeholder": "Çalışan sayısını girin",
+      "label": "Çalışan Sayısı"
+    },
+    "flag_type": {
+      "placeholder": "Bir bayrak türü seçin",
+      "label": "Bayrak türü"
+    },
+    "select_new_file": "Yeni dosya seç",
+    "upload_new_file": "Yeni dosya yükle",
+    "keyword": {
+      "placeholder": "Anahtar kelimeyi girin",
+      "label": "Anahtar kelime"
+    },
+    "choose_header": {
+      "placeholder": "Bir başlık seçin",
+      "label": "Başlık"
+    },
+    "search_user": {
+      "placeholder": "Kullanıcı ara"
+    },
+    "search_item": {
+      "placeholder": "Arama öğesini girin",
+      "label": "Öğeyi ara"
+    },
+    "account_code": {
+      "placeholder": "Hesap kodunu girin",
+      "label": "hesap kodu"
+    },
+    "account_name": {
+      "placeholder": "Hesap adını girin",
+      "label": "hesap adı"
+    },
+    "type": { "placeholder": "Tür seçin", "label": "Tip" },
+    "erp_system_title": {
+      "placeholder": "ERP sistemini seçin",
+      "label": "ERP sistemi"
+    },
+    "companyBio": {
+      "placeholder": "Şirket biyografisini girin",
+      "label": "Şirket biyografisi"
+    },
+    "isDemo": {
+      "label": "Demo mu"
+    },
+    "logo": {
+      "label": "Logo"
+    },
+    "companyTitle": {
+      "placeholder": "Şirket unvanını girin",
+      "label": "Şirket ünvanı"
+    },
+    "forget_password": {
+      "placeholder": "E-postanızı/kullanıcı adınızı girin"
+    },
+    "file_type": {
+      "placeholder": "Dosya tipi",
+      "label": "Dosya tipi"
+    },
+    "login_title": {
+      "label": "E-posta veya telefon numarası",
+      "placeholder": "E-postanızı/telefon numaranızı girin"
+    },
+    "email_title": {
+      "label": "e-posta",
+      "placeholder": "E-postanızı giriniz"
+    },
+    "center_title": {
+      "label": "Merkezi",
+      "placeholder": "Merkezi seç"
+    },
+    "password_title": {
+      "label": "Şifre",
+      "placeholder": "Şifreni seç"
+    },
+    "enter_password_title": {
+      "label": "şifre",
+      "placeholder": "Şifrenizi girin"
+    },
+    "active_code_title": {
+      "label": "Aktif kod",
+      "placeholder": "Aktif kodu girin"
+    },
+    "first_name_title": {
+      "label": "İlk adı",
+      "placeholder": "İlk adınızı girin"
+    },
+    "last_name_title": {
+      "label": "Soy isim",
+      "placeholder": "Soyadınızı giriniz"
+    },
+    "user_name_title": {
+      "label": "Kullanıcı adı",
+      "placeholder": "Kullanıcı adınızı giriniz"
+    },
+    "is_partner": {
+      "label": "Ortak"
+    },
+    "repeat_password_title": {
+      "label": "Şifreyi tekrar girin",
+      "placeholder": "parolanızı doğrulayın"
+    },
+    "phone_number_title": {
+      "label": "Telefon numarası",
+      "placeholder": "Telefon numaranızı girin"
+    },
+    "national_code_title": {
+      "label": "Ulusal Kod",
+      "placeholder": "Ulusal kodunuzu girin"
+    },
+    "companyTitle_title": {
+      "label": "Başlık",
+      "placeholder": "Şirket unvanınızı girin"
+    },
+    "invite_key_title": {
+      "label": "Davet Anahtarı",
+      "placeholder": "Davet anahtarınızı girin"
+    },
+    "description": {
+      "label": "Tanım",
+      "placeholder": "Herhangi bir şey yaz"
+    },
+    "candidate_description": {
+      "label": "Aday Özeti",
+      "placeholder": "Herhangi bir şey yaz"
+    },
+    "title": {
+      "label": "Başlık",
+      "placeholder": "Başlığı girin"
+    },
+    "title_en": {
+      "label": "Başlık En",
+      "placeholder": "İngilizce başlığı girin"
+    },
+    "title_tr": {
+      "label": "Başlık Tr",
+      "placeholder": "Türkçe başlığı girin"
+    },
+    "company": {
+      "label": "Şirket",
+      "placeholder": "Şirketi seçin"
+    },
+    "company_project": {
+      "label": "Şirket projesi",
+      "placeholder": "Şirket projesini seçin"
+    },
+    "company_position": {
+      "label": "Şirket pozisyonu",
+      "placeholder": "Şirket pozisyonunu seçin"
+    },
+    "company_activity_category": {
+      "label": "Etkinlik kategorisi",
+      "placeholder": "Etkinlik kategorisini seçin"
+    },
+    "position_group": {
+      "label": "Pozisyon grubu",
+      "placeholder": "Konum grubunu seçin"
+    },
+    "position_detail": {
+      "label": "Pozisyon detayı",
+      "placeholder": "Herhangi bir şey yaz"
+    },
+    "name": {
+      "label": "İsim",
+      "placeholder": "Adınızı giriniz"
+    },
+    "family": {
+      "label": "Soyad",
+      "placeholder": "Soyadınızı giriniz"
+    },
+    "phone_number": {
+      "label": "Telefon numarası",
+      "placeholder": "Telefon numaranızı girin"
+    },
+    "end_user": {
+      "label": "Son kullanıcı",
+      "placeholder": "Lütfen son Kullanıcıyı seçin"
+    },
+    "selected_cv": {
+      "label": "Seçilen CV",
+      "placeholder": "Lütfen seçilen CV'yi seçin"
+    },
+    "pre_candidate_status": {
+      "label": "ön aday durumu",
+      "placeholder": "Lütfen adaylık öncesi durumunu seçin"
+    },
+    "job_position": {
+      "label": "İş pozisyonu",
+      "placeholder": "İş unvanını girin"
+    },
+    "job_industry": {
+      "label": "İş sektörü",
+      "placeholder": "Sektörü seçin"
+    },
+    "symbol": {
+      "label": "Sembol",
+      "placeholder": "Lütfen sembolü girin"
+    },
+    "code": {
+      "label": "Kod",
+      "placeholder": "Lütfen kodu girin"
+    },
+    "currency": {
+      "label": "Para birimi",
+      "placeholder": "Para birimini seçin"
+    },
+    "language": {
+      "label": "Dil",
+      "placeholder": "Dili seçin"
+    },
+    "country": {
+      "label": "Ülke",
+      "placeholder": "Ülkeyi seçin"
+    },
+    "province": {
+      "label": "Vilayet",
+      "placeholder": "İl seçin"
+    },
+    "address": {
+      "label": "Adres",
+      "placeholder": "Lütfen adresi girin"
+    },
+    "city": {
+      "label": "Şehir",
+      "placeholder": "Şehre girin"
+    },
+    "company_position_status": {
+      "label": "Şirket pozisyon durumu",
+      "placeholder": "Şirket pozisyonu durumunu girin"
+    },
+    "work_mode": {
+      "label": "Çalışma modu",
+      "placeholder": "Çalışma moduna girin"
+    },
+    "work_type": {
+      "label": "Çalışma tipi",
+      "placeholder": "İş türünü girin"
+    },
+    "salary": {
+      "label": "Maaş",
+      "placeholder": "Maaş girin"
+    },
+    "closing_suspending_reason": {
+      "label": "Kapatma veya askıya alma nedeni",
+      "placeholder": "Kapatma veya askıya alma nedenini girin"
+    },
+    "closing_date": {
+      "label": "Kapanış tarihi",
+      "placeholder": "Kapanış tarihini girin"
+    },
+    "responsible_man": {
+      "label": "Sorumlu adam",
+      "placeholder": "Sorumlu adamı girin"
+    },
+    "exist_on_kariyer": {
+      "label": "Kariyerden çıkış",
+      "placeholder": ""
+    },
+    "exist_on_linkedin": {
+      "label": "LinkedIn'den çıkış",
+      "placeholder": ""
+    },
+    "is_active": {
+      "label": "Aktif",
+      "placeholder": ""
+    },
+    "is_on_black_list": {
+      "label": "Kara liste",
+      "placeholder": ""
+    },
+    "is_closed": {
+      "label": "Kapalı",
+      "placeholder": ""
+    },
+    "url": {
+      "label": "URL",
+      "placeholder": "URL'yi girin"
+    },
+    "icon": {
+      "label": "Simge",
+      "placeholder": "Simgenizi yükleyin"
+    },
+    "target": {
+      "label": "Hedef",
+      "placeholder": "Hedefi girin"
+    },
+    "inventory_type": {
+      "label": "Envanter türü",
+      "placeholder": "Envanter türünü seçin"
+    },
+    "serial_number": {
+      "label": "Seri numarası",
+      "placeholder": "Lütfen seri numarasını girin"
+    },
+    "model": {
+      "label": "Modeli",
+      "placeholder": "Lütfen modeli girin"
+    },
+    "brand": {
+      "label": "Marka",
+      "placeholder": "Lütfen markayı giriniz"
+    },
+    "inventory_number": {
+      "label": "Envanter numarası",
+      "placeholder": "Lütfen envanter numarasını girin"
+    },
+    "purchased_location_and_date": {
+      "label": "Satın alınan yer ve tarih",
+      "placeholder": "Lütfen satın alınan konumu girin"
+    },
+    "windows": {
+      "label": "Pencereler",
+      "placeholder": "Lütfen pencerelere girin"
+    },
+    "windows_password": {
+      "label": "Windows şifresi",
+      "placeholder": "Lütfen Windows şifresini girin"
+    },
+    "virus_program": {
+      "label": "Virüs programı",
+      "placeholder": "Lütfen virüs programına girin"
+    },
+    "virus_program_password": {
+      "label": "Virüs programı şifresi",
+      "placeholder": "Lütfen virüs programının şifresini girin"
+    },
+    "office_program": {
+      "label": "Ofis programı",
+      "placeholder": "Lütfen ofis programına giriniz"
+    },
+    "office_program_key": {
+      "label": "Office programı anahtarı",
+      "placeholder": "Lütfen ofis programı anahtarını girin"
+    },
+    "windows_username": {
+      "label": "Windows kullanıcı adı",
+      "placeholder": "Lütfen Windows kullanıcı adını girin"
+    },
+    "windows_user_password": {
+      "label": "Windows kullanıcı şifresi",
+      "placeholder": "Lütfen Windows kullanıcı şifresini girin"
+    },
+    "password_hint": {
+      "label": "Şifre ipucu",
+      "placeholder": "Lütfen şifre ipucunu girin"
+    },
+    "search": {
+      "label": "Aramak",
+      "placeholder": "Aramak..."
+    },
+    "start_period": {
+      "label": "İhbar Süresi (Hafta)",
+      "placeholder": "İhbar Süresi (Hafta) girin"
+    },
+    "total_IT_experience": {
+      "label": "toplam BT Deneyimi",
+      "placeholder": "Toplam BT Deneyimini girin"
+    },
+    "total_IT_experience_month": {
+      "label": "toplam BT deneyimi ayı",
+      "placeholder": "Toplam BT deneyimi ayını girin"
+    },
+    "blacklist_reason": {
+      "label": "Kara liste nedeni",
+      "placeholder": "Kara liste nedenini girin"
+    },
+    "person": {
+      "label": "Kişi",
+      "placeholder": "Kişiyi seçin"
+    },
+    "candidate_position": {
+      "label": "Aday pozisyonu",
+      "placeholder": "Aday pozisyonunu seçin"
+    },
+    "military_status": {
+      "label": "Askerlik Durumu",
+      "placeholder": "Askerlik Durumu'nu seçin"
+    },
+    "identity_number": {
+      "label": "Kimlik Numarası",
+      "placeholder": "Kimlik numarasını girin"
+    },
+    "accommodation_address": {
+      "label": "Konaklama adresi",
+      "placeholder": "Konaklama adresini girin"
+    },
+    "postponement_date": {
+      "label": "Erteleme tarihi",
+      "placeholder": "Erteleme tarihini girin"
+    },
+    "contract_type": {
+      "label": "Sözleşme tipi",
+      "placeholder": "Sözleşme türünü seçin"
+    },
+    "contract_duration": {
+      "label": "Kontrat süresi",
+      "placeholder": "Sözleşme süresini girin"
+    },
+    "employee_title": {
+      "label": "Çalışan unvanı",
+      "placeholder": "Çalışan unvanını seçin"
+    },
+    "work_location": {
+      "label": "İş yeri",
+      "placeholder": "Çalışma yerini seçin"
+    },
+    "school_of_graduation": {
+      "label": "Mezun olunan okul",
+      "placeholder": "Mezun olduğunuz okula girin"
+    },
+    "department_of_graduation": {
+      "label": "Mezuniyet bölümü",
+      "placeholder": "Mezun olduğunuz bölüme girin"
+    },
+    "date_of_graduation": {
+      "label": "Mezuniyet tarihi",
+      "placeholder": "Mezuniyet tarihini girin"
+    },
+    "IBAN_number": {
+      "label": "IBAN numarası",
+      "placeholder": "IBAN numarasını girin"
+    },
+    "company_email": {
+      "label": "Şirket e-postası",
+      "placeholder": "Şirket e-postasını girin"
+    },
+    "blood_group": {
+      "label": "Kan grubu",
+      "placeholder": "Kan grubunu girin"
+    },
+    "emergency_contact_information": {
+      "label": "Acil İletişim Bilgileri",
+      "placeholder": "Acil durum iletişim bilgilerini girin"
+    },
+    "birth_certificate_number": {
+      "label": "Doğum belgesi numarası",
+      "placeholder": "Doğum belgesi numarasını girin"
+    },
+    "manager": {
+      "label": "Müdür",
+      "placeholder": "Yöneticiye girin"
+    },
+    "is_approved": {
+      "label": "Onaylandı"
+    },
+    "is_on_blacklist": {
+      "label": "Kara listede"
+    },
+    "offer_content": {
+      "label": "İçerik sunun",
+      "placeholder": "Teklif içeriğini girin"
+    },
+    "offer_result": {
+      "label": "Teklif sonucu",
+      "placeholder": "Teklif sonucunu girin"
+    },
+    "offer_date": {
+      "label": "Teklif tarihi",
+      "placeholder": "Teklif tarihini girin"
+    },
+    "meeting_date": {
+      "label": "Toplantı tarihi",
+      "placeholder": "Toplantı tarihini girin"
+    },
+    "all_day": {
+      "label": "Tüm gün",
+      "placeholder": "Tüm gün"
+    },
+    "start_time": {
+      "label": "Başlangıç Saati",
+      "placeholder": "Başlangıç saatini girin"
+    },
+    "end_time": {
+      "label": "Bitiş zamanı",
+      "placeholder": "Bitiş saatini girin"
+    },
+    "color": {
+      "label": "Renk",
+      "placeholder": "Renk girin"
+    },
+    "meeting_result": {
+      "label": "Toplantı sonucu",
+      "placeholder": "Toplantı sonucunu girin"
+    },
+    "assign_date": {
+      "label": "Tarih ata",
+      "placeholder": "Atama tarihini girin"
+    },
+    "return_date": {
+      "label": "Dönüş tarihi",
+      "placeholder": "Dönüş tarihini girin"
+    },
+    "inventory": {
+      "label": "Envanter",
+      "placeholder": "Envanter seçin"
+    },
+    "permission_type": {
+      "label": "İzin türü",
+      "placeholder": "İzin türünü seçin"
+    },
+    "leave_type": {
+      "label": "Bırak türü",
+      "placeholder": "İzin türünü seçin"
+    },
+    "start_date": {
+      "label": "Başlangıç ​​tarihi",
+      "placeholder": "Başlangıç ​​tarihini seçin"
+    },
+    "end_date": {
+      "label": "Bitiş tarihi",
+      "placeholder": "Bitiş tarihini seçin"
+    },
+    "meeting_speaking_person": {
+      "label": "Toplantıda konuşan kişi",
+      "placeholder": "Toplantıda konuşan kişiyi girme"
+    },
+    "cv_resource": {
+      "label": "CV kaynağı",
+      "placeholder": "CV kaynağını girin"
+    },
+    "discipline_type": {
+      "label": "Disiplin türü",
+      "placeholder": "Disiplin türünü girin"
+    },
+    "issue_date": {
+      "label": "Düzenleme tarihi",
+      "placeholder": "Veriliş tarihini girin"
+    },
+    "establishment_year": {
+      "label": "Kuruluş yılı",
+      "placeholder": "Kuruluş yılını girin"
+    },
+    "up_to_title": "kadar",
+    "upload_avatar_title": "avatarını yükle",
+    "upload_logo_title": "logo resminizi yükleyin",
+    "current_status": "Şu anki durum",
+    "choose_status": "Durumu seçin"
+  },
+  "button": {
+    "accept_file": "Dosyayı kabul et",
+    "apply": "uygula",
+    "copy_values": "Değerleri kopyala",
+    "values_copied": "Değerler kopyalandı!",
+    "import_title": "İçe aktarmak",
+    "download_sample_file": "Örnek dosyayı indir",
+    "follow_title": "Takip etmek",
+    "profile_title": "Profil",
+    "request_title": "Rica etmek",
+    "start_mapping_title": "Haritalamayı başlat",
+    "finish_mapping_title": "Eşlemeyi bitir",
+    "upload": "Yüklemek",
+    "select_header_title": "Başlığı seçin",
+    "create_ticket_title": "Bilet Oluştur",
+    "add_user": "Kullanıcı Ekle",
+    "submit_title": "göndermek",
+    "next_title": "sonraki",
+    "previous_title": "öncesi",
+    "is_demo_title": "DEMO",
+    "resubmit_title": "yeniden gönder",
+    "back_to_cart_title": "sepete geri dön",
+    "save_title": "Kaydetmek",
+    "create_title": "Yaratmak",
+    "edit_title": "düzenlemek",
+    "search_title": "Aramak",
+    "back_title": "Geri",
+    "select_title": "Seçme",
+    "CV": "CV'yi yükle",
+    "upload_file": "Dosya yükleme",
+    "login_title": "Giriş yapmak",
+    "confirm_title": "onaylamak",
+    "delete_title": "Silmek",
+    "cancel_title": "Hayır, kalsın!"
+  },
+  "link": {
+    "terms_condition_title": "Şartlar ve Koşullar",
+    "privacy_policy_title": "Gizlilik Politikası",
+    "upload_logo_title": "logo resminizi yükleyin"
+  },
+  "language": {
+    "language_title": "Dil"
+  },
+  "theme": {
+    "dark_mode_title": "Karanlık Mod"
+  },
+  "notification": {
+    "data_success": "Veri başarıyla kaydedildi"
+  },
+  "navbar": {
+    "customer_title": "Müşteri",
+    "stock_title": "Stoklamak",
+    "personnel_title": "Personel",
+    "definition_title": "Tanım",
+    "file_Upload_title": "Dosya yükleme",
+    "budget_management_title": "Bütçe yönetimi",
+    "budget_title": "Bütçe",
+    "helpDesk_title": "Yardım Masası",
+    "dataUpload_title": "Veri yükleme",
+    "users_title": "Kullanıcılar",
+    "flags_title": "Bayraklar",
+    "coding_title": "Kodlama",
+    "profile_title": "Profil",
+    "dashboard_title": "Gösterge Paneli",
+    "company_title": "Şirket",
+    "user_company_title": "Kullanıcı şirketi",
+    "account_planning_title": "Hesap planlama",
+    "company_project_title": "Şirket Projesi",
+    "company_position_title": "Şirket Pozisyonu",
+    "offers_title": "Teklifler",
+    "pre_candidate_title": "Ön Aday",
+    "referrals_title": "Yönlendirmeler",
+    "documents_title": "Belgeler",
+    "organization_section_title": "Organizasyon",
+    "employees_title": "Çalışanlar",
+    "calendar_title": "Takvim",
+    "settings_title": "Ayarlar",
+    "log_out_title": "Çıkış Yap",
+    "timesheet_title": "Zaman planı",
+    "overview_title": "genel bakış",
+    "FAQ_title": "FAQ",
+    "tutorials_title": "Öğreticiler",
+    "tickets_title": "biletler",
+    "contact_us_title": "bize Ulaşın",
+    "licenses_title": "lisanslar"
+  },
+  "table": {
+    "col": {
+      "personnel": "Personel",
+      "stock": "Stoklamak",
+      "customer": "Müşteri",
+      "start_date": "Başlangıç ​​tarihi",
+      "exit_date": "Çıkış Tarihi",
+      "jan": "Jan",
+      "feb": "Şubat",
+      "mar": "Deniz",
+      "apr": "Nisan",
+      "may": "Mayıs",
+      "jun": "Haz",
+      "jul": "Temmuz",
+      "aug": "Ağustos",
+      "sep": "Eylül",
+      "oct": "Ekim",
+      "nov": "Kasım",
+      "dec": "Aralık",
+      "year": "yıl",
+      "flag_type": "Bayrak türü",
+      "credit": "Kredi",
+      "debit": "Borç",
+      "reference_description": "Referans açıklaması",
+      "column": "Kolon",
+      "reference_number": "Referans numarası",
+      "account_title": "Hesap başlığı",
+      "reference_type": "Referans Türü",
+      "account_number": "Hesap numarası",
+      "from_date": "İtibaren",
+      "to_date": "Bugüne kadar",
+      "file_number": "Dosya numarası",
+      "file_name": "Dosya adı",
+      "username": "Kullanıcı adı",
+      "job": "İş",
+      "keyword": "anahtar kelime",
+      "search_item": "Öğeyi ara",
+      "budget_type": "Bütçe Türü",
+      "account_code": "Hesap kodu",
+      "account_name": "Hesap adı",
+      "file_type": "Dosya tipi",
+      "discipline_type": "Disiplin türü",
+      "issue_date": "Düzenleme tarihi",
+      "inventory_model": "Modeli",
+      "inventory_brand": "Marka",
+      "inventory_serialNumber": "Seri numarası",
+      "permission_type": "İzin türü",
+      "leave_type": "Bırak türü",
+      "start": "Başlangıç",
+      "end": "Son",
+      "assign_date": "Tarih ata",
+      "return_date": "Dönüş tarihi",
+      "filename": "dosya adı",
+      "no": "No.",
+      "tenant": "Kiracı",
+      "title": "Başlık",
+      "title_en": "Title en",
+      "title_tr": "Title tr",
+      "action": "Aksiyon",
+      "description": "Tanım",
+      "position_detail": "Pozisyon detayı",
+      "salary": "Maaş",
+      "name": "Ad",
+      "family": "Soyad",
+      "first_name": "İlk adı",
+      "last_name": "Soy isim",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "status": "Durum",
+      "symbol": "Sembol",
+      "code": "Kod",
+      "address": "Adres",
+      "language": "Dil",
+      "currency": "Para birimi",
+      "country": "Ülke",
+      "province": "Vilayet",
+      "city": "Şehir",
+      "url": "URL",
+      "target": "Hedef",
+      "model": "Modeli",
+      "brand": "Marka",
+      "inventory_number": "Envanter numarası",
+      "employee_title": "Çalışan unvanı",
+      "company_email": "Şirket e-postası",
+      "candidate": "Aday",
+      "offer_content": "İçerik sunun",
+      "result": "sonucu",
+      "speaking_person": "Görüşmeci",
+      "start_time": "Başlangıç ​​saati",
+      "end_time": "Bitiş zamanı"
+    },
+    "result": "Sonuç",
+    "no_data": "Veri yok!"
+  },
+  "page_title": {
+    "accept_file": "Dosyayı kabul et",
+    "create_budget_detail": "Bütçe ayrıntısı oluştur",
+    "edit_budget_detail": "bütçe ayrıntısını düzenle",
+    "budget_info": "Bütçe bilgisi",
+    "company_budget": "Şirket bütçesi",
+    "confirmation": "Onayla",
+    "customer": "Müşteri",
+    "create_customer": "Müşteri oluştur",
+    "edit_customer": "Müşteriyi düzenle",
+    "stock": "Stoklamak",
+    "create_stock": "Stok oluştur",
+    "edit_stock": "Stoku düzenle",
+    "personnel": "Personel",
+    "create_personnel": "Personel oluştur",
+    "edit_personnel": "Personeli düzenle",
+    "create_definition": "Tanım oluştur",
+    "edit_definition": "Tanımı düzenle",
+    "definition": "Tanım",
+    "import_type": "İçe aktarma türü",
+    "import_title": "İçe aktarmak",
+    "budget_file": "bütçe dosyası",
+    "create_budget_header": "Bütçe başlığı oluştur",
+    "help_desk": "Yardım Masası",
+    "file_upload": "Dosya yükleme",
+    "budget": "Bütçe",
+    "upload_budget_file": "Bütçe dosyasını yükle",
+    "create_investor": "Yatırımcı oluştur",
+    "contact_info": "İletişim bilgilerini ekleyin",
+    "create_user": "Kullanıcı oluştur",
+    "transactions": "İşlemler",
+    "mapping": "haritalama",
+    "upload_company_file": "Şirket dosyasını yükle",
+    "data_upload": "Veri yükleme",
+    "choose_header": "Başlık seçimi",
+    "profile": "Profil",
+    "users_list": "Kullanıcı listesi",
+    "overview": "Genel Bakış",
+    "planning_detail": "Planlama ayrıntıları",
+    "account_planning": "Hesap planlama",
+    "create_account_planning": "Hesap planlaması oluşturun",
+    "edit_account_planning": "Hesap planlamasını düzenle",
+    "create_coding": "Kodlama oluştur",
+    "edit_coding": "kodlamayı düzenle",
+    "code_mapper": "Kod eşleyici",
+    "create_code_mapper": "Kod eşleyici oluştur",
+    "edit_code_mapper": "Kod eşleyiciyi düzenleyin",
+    "coding_flag": "Kodlama bayrağı",
+    "create_coding_flag": "Kodlama bayrağı oluştur",
+    "edit_coding_flag": "Kodlama işaretini düzenle",
+    "signUp": "Üye olmak",
+    "enter_active_code": "Lütfen aktivasyon kodunu girin",
+    "employee_quit": "Çalışan istifası",
+    "new_employee_file": "Yeni çalışan dosyası",
+    "new_employee_discipline": "Yeni çalışan disiplini",
+    "edit_employee_discipline": "Çalışan disiplinini düzenleyin",
+    "disciplineType": "Disiplin Türü",
+    "edit_disciplineType": "Disiplin Türünü Düzenle",
+    "create_disciplineType": "Disiplin Türü Oluştur",
+    "edit_fileType": "Dosya Türünü Düzenle",
+    "create_fileType": "Dosya Türü Oluştur",
+    "employee_discipline": "çalışan disiplini",
+    "employee_file": "çalışan dosyası",
+    "fileType": "Dosya tipi",
+    "uploadCv": "CV'yi yükle",
+    "company": "Şirket",
+    "create_company": "Şirket oluştur",
+    "edit_company": "Şirketi düzenle",
+    "company_project": "Şirket Projesi",
+    "create_company_project": "Şirket projesi oluştur",
+    "edit_company_project": "Şirket projesini düzenle",
+    "company_position": "Şirket pozisyonu",
+    "create_company_position": "Şirket pozisyonu oluştur",
+    "edit_company_position": "Şirket pozisyonunu düzenle",
+    "pre_candidate": "Ön Aday",
+    "create_pre_candidate": "Ön Aday oluştur",
+    "edit_pre_candidate": "Ön Adayı düzenle",
+    "account_type": "Hesap Türleri",
+    "create_account_type": "Hesap türü oluştur",
+    "edit_account_type": "Hesap türünü düzenle",
+    "province": "Vilayet",
+    "create_province": "İl oluştur",
+    "edit_province": "Eyaleti düzenle",
+    "country": "Ülke",
+    "create_country": "Ülke oluştur",
+    "edit_country": "Ülkeyi düzenle",
+    "currency": "Para birimi",
+    "create_currency": "Para birimi oluştur",
+    "edit_currency": "Para birimini düzenle",
+    "language": "Dil",
+    "create_language": "Dil oluştur",
+    "contract_type": "Sözleşme tipi",
+    "create_contract_type": "Sözleşme türü oluştur",
+    "edit_contract_type": "Sözleşme türünü düzenle",
+    "city": "Şehirler",
+    "create_city": "Şehir oluştur",
+    "edit_city": "Şehri düzenle",
+    "course_type": "Kurs türü",
+    "create_course_type": "Kurs türü oluştur",
+    "edit_course_type": "Kurs türünü düzenle",
+    "expertise": "Uzmanlık",
+    "create_expertise": "Uzmanlık yaratın",
+    "edit_expertise": "Uzmanlığı düzenle",
+    "feature": "Özellik",
+    "create_feature": "Özellik oluştur",
+    "edit_feature": "Özelliği düzenle",
+    "inventory_type": "Envanter türü",
+    "create_inventory_type": "Envanter türü oluştur",
+    "edit_inventory_type": "Envanter türünü düzenle",
+    "leave_type": "Bırak türü",
+    "create_leave_type": "İzin türü oluştur",
+    "edit_leave_type": "İzin türünü düzenle",
+    "military_status": "Askeri durum",
+    "create_military_status": "Askeri statü oluştur",
+    "edit_military_status": "Askerlik durumunu düzenle",
+    "permission_type": "İzin türü",
+    "create_permission_type": "İzin türü oluştur",
+    "edit_permission_type": "İzin türünü düzenle",
+    "work_type": "Çalışma tipi",
+    "create_work_type": "İş türü oluştur",
+    "edit_work_type": "İş türünü düzenle",
+    "work_mode": "Çalışma modu",
+    "create_work_mode": "Çalışma modu oluştur",
+    "edit_work_mode": "Çalışma modunu düzenle",
+    "work_location": "İş yeri",
+    "create_work_location": "İş yeri oluştur",
+    "edit_work_location": "İş yerini düzenle",
+    "role": "Rol",
+    "create_role": "Rol oluştur",
+    "edit_role": "Rolü düzenle",
+    "role_permission": "Rol izni",
+    "create_role_permission": "Rol izni oluştur",
+    "edit_role_permission": "Rol iznini düzenle",
+    "packet": "Paket",
+    "create_packet": "Paket oluştur",
+    "edit_packet": "Paketi düzenle",
+    "employee": "Çalışan",
+    "employee_leave": "Çalışan izni",
+    "employee_inventory": "Çalışan envanteri",
+    "create_employee": "Çalışan oluştur",
+    "edit_employee": "Çalışanı düzenle",
+    "employee_title": "Çalışan unvanı",
+    "create_employee_title": "Çalışan unvanı oluştur",
+    "edit_employee_title": "Çalışan unvanını düzenle",
+    "new_employee_inventory": "Yeni çalışan envanteri",
+    "edit_employee_inventory": "Çalışan envanterini düzenleyin",
+    "new_employee_leave": "Yeni çalışan izni",
+    "edit_employee_leave": "Çalışan izinlerini düzenle",
+    "company_position_status": "Şirket pozisyon durumu",
+    "create_company_position_status": "Şirket pozisyonu durumu oluştur",
+    "edit_company_position_status": "Şirket pozisyonu durumunu düzenle",
+    "company_position_group": "Şirket pozisyon grubu",
+    "create_company_position_group": "Şirket pozisyon grubu oluştur",
+    "edit_company_position_group": "Şirket pozisyon grubunu düzenle",
+    "candidate_position_status": "Aday pozisyon durumu",
+    "create_candidate_position_status": "Aday pozisyonu durumu oluştur",
+    "edit_candidate_position_status": "Aday pozisyonu durumunu düzenleyin",
+    "inventory": "Envanter",
+    "create_inventory": "Envanter oluştur",
+    "edit_inventory": "Envanteri düzenle",
+    "person": "Kişi",
+    "create_person": "Kişi oluştur",
+    "edit_person": "Kişiyi düzenle",
+    "create_candidate": "Aday oluştur",
+    "edit_candidate": "adayı düzenle",
+    "change_status": "Durum değiştirmek",
+    "search_result": "Arama sonuçları",
+    "position_offer": "Pozisyon teklifi",
+    "new_position_offer": "Yeni pozisyon teklifi",
+    "edit_position_offer": "Pozisyon teklifini düzenle",
+    "position_meeting": "Pozisyon toplantısı",
+    "new_position_meeting": "Yeni pozisyon toplantısı",
+    "edit_position_meeting": "Pozisyon toplantısını düzenle"
+  },
+  "toast": {
+    "success": "Bilgileriniz başarıyla kaydedildi",
+    "error": "Bir hata oluştu, lütfen tekrar deneyin",
+    "active_code_invalid": "Etkin kod geçersiz",
+    "success_delete": "Veriler başarıyla silindi",
+    "user_pass_invalid": "Kullanıcı adı veya şifre geçersiz",
+    "duplicate_user": "Kullanıcı zaten var",
+    "duplicate_user_company": "Kullanıcı şirketi zaten mevcut",
+    "no_CV": "CV yüklenmedi!",
+    "CV_upload_first": "Önce CV yüklenmelidir",
+    "password_change_successful": "Şifreniz başarıyla değiştirildi"
+  },
+  "profile_menu": {
+    "my_profile": "Benim profilim",
+    "my_projects": "Benim projelerim",
+    "my_statements": "İfadelerim",
+    "language": "Dil",
+    "account_setting": "Hesap ayarları",
+    "sign_out": "oturumu Kapat"
+  },
+  "select": {
+    "no_options_message": "Seçenek yok"
+  },
+  "mobile_input": {
+    "not_found": "Hiçbirşey Bulunamadı"
+  },
+  "tooltip": {
+    "download": "İndirmek",
+    "convert": "Dönüştürmek",
+    "start_mapping": "Haritalamayı başlat",
+    "accept_file": "Dosyayı kabul et",
+    "transaction": "İşlemler",
+    "confirm": "Onaylamak",
+    "export": "İhracat",
+    "details": "Detaylar",
+    "add_detail": "Ayrıntı ekle",
+    "employees": "Çalışanlar",
+    "followers": "Takipçiler"
+  },
+  "tab": {
+    "base_info": "Temel Bilgiler",
+    "detail": "Detay",
+    "contract_info": "Sözleşme bilgileri",
+    "employment_info": "İstihdam bilgisi",
+    "overview": "Genel Bakış"
+  },
+  "popup": {
+    "edit": "Düzenlemek"
+  },
+  "notif_popup": {
+    "notifications": "Bildirimler",
+    "request": "Rica etmek"
+  },
+  "badge": {
+    "new": "Yeni"
+  }
+}
