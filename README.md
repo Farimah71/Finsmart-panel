@@ -29,7 +29,6 @@ This project is an accounting application :dollar: designed to manage financial 
 ## Screenshots
 
 #### Login:
-##### Desktop view:
 
   <div align="center">
 
