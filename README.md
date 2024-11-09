@@ -1,5 +1,5 @@
 > [!NOTE]  
-> This project is a sample created with permission and is shared solely to showcase my coding abilities. Sensitive data, such as API keys, environment files, and other confidential information related to the API services, has been removed for security reasons.
+> This repository is a sample project intended to demonstrate my coding skills. It is not the primary repository used by the team, which includes multiple branches and commits. For security reasons, sensitive information such as API keys and environment files has been excluded. This project is shared with permission to showcase my work. ✅
 
 # Finsmart
 
