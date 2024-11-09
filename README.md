@@ -3,7 +3,7 @@
 
 # Finsmart
 
-This project is an accounting application designed to manage financial transactions, track expenses, and generate financial reports. It provides features such as invoicing, expense tracking, and budget management to help users maintain accurate financial records.
+This project is an accounting application :dollar: designed to manage financial transactions, track expenses, and generate financial reports. It provides features such as invoicing, expense tracking, and budget management to help users maintain accurate financial records.
 
 ## Features
 
